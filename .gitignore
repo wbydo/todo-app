@@ -1,0 +1,4 @@
+/config/*
+!/config/example.ts
+
+/node_modules/
